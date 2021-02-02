@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+    <%= title %>
+  </title>
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $("input[name='Gender']:radio").change(function () {
+        var serviceType = this.value;
+        if (serviceType == "M") {
+          $("#F").hide();
+        } else if (serviceType == "F") {
+          $("#M").hide();
+        }
+      });
+      $("input[name='CmCode']:radio").change(function () {
+        var serviceType = this.value;
+        if (serviceType == "C") {
+          $("M").hide();
+        } else if (serviceType == "M") {
+          $("C").hide();
+        }
+      });
+  </script>
+</head>
+
+<body>
+  <h1>
+    <%= title %>
+  </h1>
+  <p>
+    <%= title %> !!
+  </p>
+  <form  method="GET" name="frm1">
+    <table>
+      <tr>
+        <td> 이메일 : <input type="text" name="Qmail" style="width:130px" value="<%= Qmail %>"> 
+          <button type="submit"  onclick="javascript: frm1.action='/users/idcheck'"/>중복확인</button>
+          <span style="width:44px; color:Red;font: size 9px"> <%= overLap %></span>
+          </td>
+      </tr>
+      <tr>
+        <td>닉네임 : <input type="text" name="NickName" style="width:88px" > </td>
+      </tr>
+      <tr>
+        <td>전화번호 : <input type="text" name="TelNo" style="width:86px"></td>
+      </tr>
+      <tr>
+        <td> 사용자구분 :  <input type="radio" name="CMCode" value="C" checked>일반사용자
+          <input type="radio" name="CMCode" value="M">매장관리자
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <input value="등록" onclick="javascript: frm1.action='/users/signup';"  type="submit" /> 
+          <input value="홈으로" onclick="javascript: frm1.action='/users/home';"  type="submit" /> 
+        </td> 
+      </tr>
+    </table>
+  </form>
+   
+</body>
+</html>

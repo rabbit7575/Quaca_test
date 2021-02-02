@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+
+    <script>
+        $("#home").click(function () {
+            $("form").attr("action", "/notice/home");
+        });
+        function btn_click(str) {
+            if (str == "home") {
+                frm1.action = "/notice/home";
+            }
+        }
+  </script>
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p> ><%= title %> List</p>
+    
+
+    <form action='/Qstore/addst' method="GET">
+      <table>
+        <tr>
+          <td> 매장명 : <input type="text" name="StoreName" style="width:80px"> </td>
+        </tr>
+        <tr>
+          <td> 주소 : <input type="text" name="Addrss" style="width:300px"> </td>
+        </tr>
+        <tr>
+          <td>전화번호 : <input type="text" name="TelNo" style="width:88px" > </td>
+        </tr>
+        <tr>
+          <td>신군구코드 : <input type="text" name="SigunguCode" style="width:56px"></td>
+        </tr>
+        <tr>
+          <td>도로명코드 : <input type="text" name="RoadnameCode" style="width:66px"></td>
+        </tr>
+        <tr>
+          <td>위도 : <input type="text" name="LlatTudeCode" style="width:89px"></td>
+        </tr>
+        <tr>
+          <td>경도 : <input type="text" name="LongiTude" style="width:89px"></td>
+        </tr>
+          <td><input value="등록" type="submit" /> 
+            <input value="홈으로" type="submit" onclick='btn_click("home")' /></td> 
+        </tr>
+      </table>
+    </form>
+
+   
+  </body>
+</html>

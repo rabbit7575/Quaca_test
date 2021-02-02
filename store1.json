@@ -1,0 +1,945 @@
+{
+    "Store": {
+        "Store_1": { 
+            "name": "공차 나주빛가람점",
+            "address": "전남 나주시 상야2길 7 1층 101호",
+            "lat": "35.022204",
+            "lon": "126.7856643",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOn81ZD1icwPfjaMM-59c5muMwccRB3A6lRWi7O!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOn81ZD1icwPfjaMM-59c5muMwccRB3A6lRWi7O%3Dw298-h298-k-no!7i875!8i875!4m10!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m6!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428!14m1!1BCgIgAQ#",
+                "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOuvRLTPyHVTOTa2Ki-bptxsyvnvCHMzujyAGUT!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOuvRLTPyHVTOTa2Ki-bptxsyvnvCHMzujyAGUT%3Dw203-h152-k-no!7i4048!8i3036!4m10!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m6!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428!14m1!1BCgIgAQ#",
+                "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMMNZjiUGPtRu03A6pzZx6mWav6cQmW_c0c_rEr!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMNZjiUGPtRu03A6pzZx6mWav6cQmW_c0c_rEr%3Dw203-h270-k-no!7i3024!8i4032!4m10!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m6!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428!14m1!1BCgIgAQ#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "자스민그린티",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    },
+                    "Drink_2": {
+                        "name": "밀크폼그린티",
+                        "price": "4000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    },
+                    "Drink_3": {
+                        "name": "그린밀크티",
+                        "price": "4000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    },
+                    "Drink_4": {
+                        "name": "망고주스",
+                        "price": "4300",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    },
+                    "Drink_5": {
+                        "name": "아메리카노",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "우유빵",
+                        "price": "5000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMDhfNCAg%2FMDAxNjA0ODM5NTg1MDAw.lD8OGUJyKmwc_BPEqoHikq9sYfj8fJTPCiQI59hqFEQg.1dopcUxIUqBeAMT4LcNugkhMouv2JNfCoITDgev0YNQg.JPEG.cyh_0919%2F10.jpg&type=sc960_832"
+                    },
+                    "Bakery_2": {
+                        "name": "크라상",
+                        "price": "4000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MDFfMjEy%2FMDAxNTk2MjU2MTczMjY5.Ihm1ZIahMvir4kLnxCYEByFPp8Twp9pFloCraA7jItEg.Zeka6pJ--2GQeX1HpJyRVw50RB1Bk6y_F10DAam-2sQg.JPEG.jdr21035%2FIMG_9226.jpg&type=sc960_832"
+                    },
+                    "Bakery_3": {
+                        "name": "코코넛빵",
+                        "price": "3500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2Fdata44%2F2009%2F5%2F25%2F253%2Fimg_0862_julie7000.jpg&type=sc960_832"
+                    },
+                    "Bakery_4": {
+                        "name": "팥빵",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMjVfMjkx%2FMDAxNjAzNTg5MjI4MTcw.q3xCkXe3bpA0N2aQxJNF2avQjybGFjtWlWwBRaJgpLAg.9oZZDik_mk19Ch6EcFUkPp06tm5jZnEhRA-Bjlf0hnsg.JPEG.onlypil5492%2F20201025%25A3%25DF101741.jpg&type=sc960_832"
+                    },
+                    "Bakery_5": {
+                        "name": "크림빵",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "감귤초콜릿",
+                        "price": "5000",
+                        "imgUrl": "https://search.pstatic.net/sunny/?src=http%3A%2F%2Fimg4.tmon.kr%2Fcdn3%2Fdeals%2F2020%2F06%2F19%2F3809305994%2Ffront_347fb_erbcs.jpg&type=sc960_832"
+                    },
+                    "Goods_2": {
+                        "name": "다크초콜릿",
+                        "price": "6500",
+                        "imgUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fcdn.wadiz.kr%2Fft%2Fimages%2Fgreen001%2F2020%2F1022%2F20201022165155728_76.jpg%2Fwadiz%2Fformat%2Fjpg%2Fquality%2F80%2Foptimize&type=sc960_832"
+                    },
+                    "Goods_3": {
+                        "name": "화이트초콜릿",
+                        "price": "4500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20190110_88%2Fbogazicidoguhan_1547130539982GArEp_JPEG%2F70436840607290496_2076867157.jpg&type=sc960_832"
+                    },
+                    "Goods_4": {
+                        "name": "엔로버초콜릿",
+                        "price": "7000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fdbscthumb-phinf.pstatic.net%2F2765_000_352%2F20190726105736310_F3R1K7HWY.jpg%2F10381554.jpg%3Ftype%3Dm4500_4500_fst&type=sc960_832"
+                    },
+                    "Goods_5": {
+                        "name": "초코바",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDAyMTNfMiAg%2FMDAxNTgxNTIyNzQ1MDYz.cV_l6MemRyr8PkR1hM-5coU0B28BqeAPgiyFQ8vlb-Yg.3y7mOQh8S1As78cd7JnbZlaDa8wabj3J2gR9207YX_og.PNG.chh041312%2F20200213_000309.png&type=sc960_832"
+                    }
+                }
+            }
+        },
+        "Store_2": { 
+            "name": "커피룩 백운점",
+            "address": "광주광역시 남구 백운1동 35",
+            "lat": "35.1404615",
+            "lon": "126.9059474",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOd0Jp9sn9QkdibwSQ44D-oIC8ESiiERsbqpRnz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOd0Jp9sn9QkdibwSQ44D-oIC8ESiiERsbqpRnz%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#",
+                "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOd0Jp9sn9QkdibwSQ44D-oIC8ESiiERsbqpRnz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOd0Jp9sn9QkdibwSQ44D-oIC8ESiiERsbqpRnz%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#",
+                "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOd0Jp9sn9QkdibwSQ44D-oIC8ESiiERsbqpRnz!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOd0Jp9sn9QkdibwSQ44D-oIC8ESiiERsbqpRnz%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "아메리카노",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_2": {
+                        "name": "카페라떼",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMWo2xRgBXrJQIUEs6qu3na11klJBbowj5mg31D!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMWo2xRgBXrJQIUEs6qu3na11klJBbowj5mg31D%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+                    },
+                    "Drink_3": {
+                        "name": "바닐라라떼",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_4": {
+                        "name": "카라멜마끼야또",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_5": {
+                        "name": "콜드브루",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOfpZPbDpMCyc_TsZHQjTyBxE7vRXuE_0LBx9hJ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOfpZPbDpMCyc_TsZHQjTyBxE7vRXuE_0LBx9hJ%3Dw203-h360-k-no!7i2268!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "알빵",
+                        "price": "5000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMDhfNCAg%2FMDAxNjA0ODM5NTg1MDAw.lD8OGUJyKmwc_BPEqoHikq9sYfj8fJTPCiQI59hqFEQg.1dopcUxIUqBeAMT4LcNugkhMouv2JNfCoITDgev0YNQg.JPEG.cyh_0919%2F10.jpg&type=sc960_832"
+                    },
+                    "Bakery_2": {
+                        "name": "고로케",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MDFfMjEy%2FMDAxNTk2MjU2MTczMjY5.Ihm1ZIahMvir4kLnxCYEByFPp8Twp9pFloCraA7jItEg.Zeka6pJ--2GQeX1HpJyRVw50RB1Bk6y_F10DAam-2sQg.JPEG.jdr21035%2FIMG_9226.jpg&type=sc960_832"
+                    },
+                    "Bakery_3": {
+                        "name": "홍게빵",
+                        "price": "3700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2Fdata44%2F2009%2F5%2F25%2F253%2Fimg_0862_julie7000.jpg&type=sc960_832"
+                    },
+                    "Bakery_4": {
+                        "name": "새우크림빵",
+                        "price": "2700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMjVfMjkx%2FMDAxNjAzNTg5MjI4MTcw.q3xCkXe3bpA0N2aQxJNF2avQjybGFjtWlWwBRaJgpLAg.9oZZDik_mk19Ch6EcFUkPp06tm5jZnEhRA-Bjlf0hnsg.JPEG.onlypil5492%2F20201025%25A3%25DF101741.jpg&type=sc960_832"
+                    },
+                    "Bakery_5": {
+                        "name": "아몬드빵",
+                        "price": "1800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "목걸이",
+                        "price": "23000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20201111_221%2F1605058405857ERpPs_JPEG%2F4573126-0.jpg&type=a340"
+                    },
+                    "Goods_2": {
+                        "name": "반지",
+                        "price": "8000",
+                        "imgUrl":"https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMDRfNzcg%2FMDAxNjA5NzM3MzA0MjUx.1pzkAtsgmhSJNbuBLN8nqRIR0uVKMFL6a9Gyxe_yr20g.egPDIxAVsVkXBDn-mPsVRbE8X5nM_oVPjOBrsgwHvt4g.JPEG.bygami%2F%25BE%25EE%25C5%25D9%25BC%25C7_%25C7%25CE%25C5%25A9.jpg&type=sc960_832"
+                    },
+                    "Goods_3": {
+                        "name": "발찌",
+                        "price": "18000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20200819_186%2F15978134946485hDyd_JPEG%2F35175828240394451_1744168971.jpg&type=sc960_832"
+                    },
+                    "Goods_4": {
+                        "name": "팔찌",
+                        "price": "25000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshopping.phinf.naver.net%2Fmain_2449465%2F24494652374.20201017192746.jpg&type=sc960_832"
+                    },
+                    "Goods_5": {
+                        "name": "안경태",
+                        "price": "55000",
+                        "imgUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fdnvefa72aowie.cloudfront.net%2Forigin%2Farticle%2F202005%2Fd50b4aca32dc2a6ec9347462b658ab93ec510ac6da8e7749c7ffb24a8aa35306.webp&type=sc960_832"
+                    }
+                }
+            }
+        },
+        "Store_3": { 
+            "name": "KAFE'52",
+            "address": "광주광역시 서구 광천동 죽봉대로 103",
+            "lat": "35.1626777",
+            "lon": "126.8833021",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOPkDx9Gx6vIE34zUQoVpaX07XOR6AQT80mYNyl!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOPkDx9Gx6vIE34zUQoVpaX07XOR6AQT80mYNyl%3Dw114-h86-k-no!7i4160!8i3120!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#",
+                "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMpc5LI9Ug9DgNSmOCre93SH8dR3zPfLCjdNRID!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMpc5LI9Ug9DgNSmOCre93SH8dR3zPfLCjdNRID%3Dw203-h152-k-no!7i4160!8i3120!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#",
+                "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMpc5LI9Ug9DgNSmOCre93SH8dR3zPfLCjdNRID!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMpc5LI9Ug9DgNSmOCre93SH8dR3zPfLCjdNRID%3Dw203-h152-k-no!7i4160!8i3120!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "아메리카노",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN6t4lfVjSSOZxBZyP3w-zcP180hrlfl8CSln3d!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN6t4lfVjSSOZxBZyP3w-zcP180hrlfl8CSln3d%3Dw203-h270-k-no!7i3120!8i4160!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Drink_2": {
+                        "name": "카페라떼",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOOmHS3B76APKHvKtNufMpFrWTTaIN9Bl2ZJtUK!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOOmHS3B76APKHvKtNufMpFrWTTaIN9Bl2ZJtUK%3Dw203-h202-k-no!7i1440!8i1439!4m10!1m2!2m1!1z7Lm07Y6Y!3m6!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021!14m1!1BCgIYIA#"
+                    },
+                    "Drink_3": {
+                        "name": "모닝주스",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMMKQ3kVsCFDHzkbli6Gwe67wTJvvpc19wfVYYK!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMKQ3kVsCFDHzkbli6Gwe67wTJvvpc19wfVYYK%3Dw203-h203-k-no!7i3024!8i3024!4m10!1m2!2m1!1z7Lm07Y6Y!3m6!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021!14m1!1BCgIYIA#"
+                    },
+                    "Drink_4": {
+                        "name": "바나나우유",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMMKQ3kVsCFDHzkbli6Gwe67wTJvvpc19wfVYYK!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMKQ3kVsCFDHzkbli6Gwe67wTJvvpc19wfVYYK%3Dw203-h203-k-no!7i3024!8i3024!4m10!1m2!2m1!1z7Lm07Y6Y!3m6!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021!14m1!1BCgIYIA#"
+                    },
+                    "Drink_5": {
+                        "name": "생과일주스",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMMKQ3kVsCFDHzkbli6Gwe67wTJvvpc19wfVYYK!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMMKQ3kVsCFDHzkbli6Gwe67wTJvvpc19wfVYYK%3Dw203-h203-k-no!7i3024!8i3024!4m10!1m2!2m1!1z7Lm07Y6Y!3m6!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021!14m1!1BCgIYIA#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "망고치즈 다쿠아즈",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMGJzMIJTykv1dKaEynQfDYIvYoZOztgQuPenNl!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMGJzMIJTykv1dKaEynQfDYIvYoZOztgQuPenNl%3Dw203-h114-k-no!7i2016!8i1134!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Bakery_2": {
+                        "name": "티라미수",
+                        "price": "4500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPArEEwDhfLfRPo5GWGieH7262weE7tAG1zHhHN!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPArEEwDhfLfRPo5GWGieH7262weE7tAG1zHhHN%3Dw203-h114-k-no!7i2016!8i1134!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Bakery_3": {
+                        "name": "바나나 다쿠아즈",
+                        "price": "4500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPArEEwDhfLfRPo5GWGieH7262weE7tAG1zHhHN!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPArEEwDhfLfRPo5GWGieH7262weE7tAG1zHhHN%3Dw203-h114-k-no!7i2016!8i1134!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Bakery_4": {
+                        "name": "딸기 다쿠아즈",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipN7v__NoOMKFCEf23cVhUH6ZUwqxY_PTfXRVm30!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipN7v__NoOMKFCEf23cVhUH6ZUwqxY_PTfXRVm30%3Dw203-h360-k-no!7i1836!8i3264!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Bakery_5": {
+                        "name": "사과 다쿠아즈",
+                        "price": "2800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-JV9RLjXO21Q7x3O6JE5pFoVVV38sZ1uDF1aI!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-JV9RLjXO21Q7x3O6JE5pFoVVV38sZ1uDF1aI%3Dw203-h114-k-no!7i5312!8i2988!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "딸기케이크",
+                        "price": "6000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO0KhksGfT3MaD4bzjCLt5DaAUWkscavj9pXaGS!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0KhksGfT3MaD4bzjCLt5DaAUWkscavj9pXaGS%3Dw203-h203-k-no!7i2035!8i2035!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Goods_2": {
+                        "name": "조청",
+                        "price": "7000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO0KhksGfT3MaD4bzjCLt5DaAUWkscavj9pXaGS!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO0KhksGfT3MaD4bzjCLt5DaAUWkscavj9pXaGS%3Dw203-h203-k-no!7i2035!8i2035!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Goods_3": {
+                        "name": "치즈케이크",
+                        "price": "5500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMrYJpddnf8pMfHbtlQzbR0Y6rrAg79iZ_vIU4y!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMrYJpddnf8pMfHbtlQzbR0Y6rrAg79iZ_vIU4y%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Goods_4": {
+                        "name": "쌀과자",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMrYJpddnf8pMfHbtlQzbR0Y6rrAg79iZ_vIU4y!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMrYJpddnf8pMfHbtlQzbR0Y6rrAg79iZ_vIU4y%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    },
+                    "Goods_5": {
+                        "name": "초코케이크",
+                        "price": "4500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/KAFE'52/@35.1626777,126.8833021,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMrYJpddnf8pMfHbtlQzbR0Y6rrAg79iZ_vIU4y!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMrYJpddnf8pMfHbtlQzbR0Y6rrAg79iZ_vIU4y%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718c0e1b8af937:0xc71bb6a89cc3dc5e!8m2!3d35.1626777!4d126.8833021#"
+                    }
+                }
+            }
+        },
+        "Store_4": { 
+            "name": "그리고커피",
+            "address": "광주광역시 동구 충장동 구성로 171",
+            "lat": "35.1494984",
+            "lon": "126.9125162",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPyF5l6VV7OL1qHKm-zfWYBPU9FF7tk7LtzhKKa!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPyF5l6VV7OL1qHKm-zfWYBPU9FF7tk7LtzhKKa%3Dw129-h86-k-no!7i6000!8i4000!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#",
+                "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPyF5l6VV7OL1qHKm-zfWYBPU9FF7tk7LtzhKKa!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPyF5l6VV7OL1qHKm-zfWYBPU9FF7tk7LtzhKKa%3Dw129-h86-k-no!7i6000!8i4000!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#",
+                "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPyF5l6VV7OL1qHKm-zfWYBPU9FF7tk7LtzhKKa!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPyF5l6VV7OL1qHKm-zfWYBPU9FF7tk7LtzhKKa%3Dw129-h86-k-no!7i6000!8i4000!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "아메리카노",
+                        "price": "5000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#"
+                    },
+                    "Drink_2": {
+                        "name": "카페라떼",
+                        "price": "5500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#"
+                    },
+                    "Drink_3": {
+                        "name": "콜드브루",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#"
+                    },
+                    "Drink_4": {
+                        "name": "드립커피",
+                        "price": "4000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#"
+                    },
+                    "Drink_5": {
+                        "name": "생과일주스",
+                        "price": "4500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Drawing+Coffee(%EA%B7%B8%EB%A6%AC%EA%B3%A0+%EC%BB%A4%ED%94%BC)/@35.1515964,126.9121594,19a,54.2y/data=!3m8!1e2!3m6!1sAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP-34zcU-d7XMGlKFyZVf4aXaTZcDe9z_x1jpxc%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xbfbd889841c59dc4!8m2!3d35.1515957!4d126.9121581#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "크림빵",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMDhfNCAg%2FMDAxNjA0ODM5NTg1MDAw.lD8OGUJyKmwc_BPEqoHikq9sYfj8fJTPCiQI59hqFEQg.1dopcUxIUqBeAMT4LcNugkhMouv2JNfCoITDgev0YNQg.JPEG.cyh_0919%2F10.jpg&type=sc960_832"
+                    },
+                    "Bakery_2": {
+                        "name": "고로케",
+                        "price": "4500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MDFfMjEy%2FMDAxNTk2MjU2MTczMjY5.Ihm1ZIahMvir4kLnxCYEByFPp8Twp9pFloCraA7jItEg.Zeka6pJ--2GQeX1HpJyRVw50RB1Bk6y_F10DAam-2sQg.JPEG.jdr21035%2FIMG_9226.jpg&type=sc960_832"
+                    },
+                    "Bakery_3": {
+                        "name": "꽃게고로케",
+                        "price": "3900",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2Fdata44%2F2009%2F5%2F25%2F253%2Fimg_0862_julie7000.jpg&type=sc960_832"
+                    },
+                    "Bakery_4": {
+                        "name": "새우살빵",
+                        "price": "3700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMjVfMjkx%2FMDAxNjAzNTg5MjI4MTcw.q3xCkXe3bpA0N2aQxJNF2avQjybGFjtWlWwBRaJgpLAg.9oZZDik_mk19Ch6EcFUkPp06tm5jZnEhRA-Bjlf0hnsg.JPEG.onlypil5492%2F20201025%25A3%25DF101741.jpg&type=sc960_832"
+                    },
+                    "Bakery_5": {
+                        "name": "오렌지빵",
+                        "price": "2800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "매운도넛",
+                        "price": "3000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMThfMzEg%2FMDAxNjAzMDE1NTM4MTYx.MnqEX2GIVTJLro3ub7Pf9HYvg4ynYWgeDOQgtLWLEEsg.0Lj2IWRTO_hw3-PsPLB7-dslNAnkTcw7csTNzXyLV4sg.JPEG.yassapa%2F1603015537587.jpg&type=a340"
+                    },
+                    "Goods_2": {
+                        "name": "찹쌀도넛",
+                        "price": "4000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMDRfMjY2%2FMDAxNjA5NzMyMzgyNjAw.-Qozl9CfjC-2VH23jjAyzLoBZsILcsfrf7p_dzFRj70g.dX3t6z7qbp6H2Lga9rMJX55rt6CMb37I1smpKXp904Eg.JPEG.kiiirin%2FIMG_6708.jpg&type=a340"
+                    },
+                    "Goods_3": {
+                        "name": "초콜릿도넛",
+                        "price": "2800",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMjBfMjM3%2FMDAxNjA1Nzk5MTQwODA2.fuwrPB4bwc4XN1pTgVmk2Stfof7ipTQF1q1tgvIHOTEg.xhRfUgtv82z5QiTkrtoAUj_qcHdsa3npOQ7LSOL3geQg.JPEG.happyhyun618%2Foutput_3460679570.jpg&type=a340"
+                    },
+                    "Goods_4": {
+                        "name": "딸기도넛",
+                        "price": "4800",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMDZfMTkz%2FMDAxNjA3MjQ3ODk0NDU3.nT3YMZLJS3zxxRUbee-AHhSo4QZCc8HDk_2hiNm2L_kg.8aJAp50nsTVZoO06UXRFxhLtnfhdv3ziNIcHioyUj0Mg.JPEG.gus971113%2FIMG_7474.jpg&type=a340"
+                    },
+                    "Goods_5": {
+                        "name": "바나나도넛",
+                        "price": "3500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA1MTJfMjgx%2FMDAxNTg5Mjk0NDA2MTYy.Bed-MMaHIb-DvFbdpDgAFHJXaA7sANlPgq1ILUHE_dsg.VdRXwr6GJjGz5lowvXZKX1kJibFUBvmavTj9_iLfGdcg.JPEG.qkrtjgus95%2FIMG_20200512_233039_148.jpg&type=a340"
+                    }
+                }
+            }
+        },
+        "Store_5": { 
+            "name": "카페 넌지시",
+            "address": "광주광역시 동구 지산동 675-45",
+            "lat": "35.1515964",
+            "lon": "126.9121594",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMJ5PuuX8GiTmdZHSrBvS0raWEdQVUOdisqLpOD!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMJ5PuuX8GiTmdZHSrBvS0raWEdQVUOdisqLpOD%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#",
+                "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMJ5PuuX8GiTmdZHSrBvS0raWEdQVUOdisqLpOD!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMJ5PuuX8GiTmdZHSrBvS0raWEdQVUOdisqLpOD%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#",
+                "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "자몽에이드",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Drink_2": {
+                        "name": "아메리카노",
+                        "price": "1500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Drink_3": {
+                        "name": "초코커피",
+                        "price": "1800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Drink_4": {
+                        "name": "유자차",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Drink_5": {
+                        "name": "드립커피",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "티라미수",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_2": {
+                        "name": "딸기티라미수",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_3": {
+                        "name": "오렌지티라미수",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_4": {
+                        "name": "라이트티라미수",
+                        "price": "1000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_5": {
+                        "name": "자몽초콜릿빵",
+                        "price": "1800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "뉴욕쿠키",
+                        "price": "700",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Goods_2": {
+                        "name": "아몬드쿠키",
+                        "price": "900",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Goods_3": {
+                        "name": "홍콩쿠키",
+                        "price": "800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Goods_4": {
+                        "name": "자스민쿠키",
+                        "price": "1500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Goods_5": {
+                        "name": "초코쿠키",
+                        "price": "500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOOIx5gurWp1O5srXcR32c1-uTtbbJ3ltKofzM9%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    }
+                }
+            }
+        },
+        "Store_6": { 
+            "name": "강리커피",
+            "address": "광주광역시 동구 지산동 476",
+            "lat": "35.1525398",
+            "lon": "126.9270695",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/%EA%B0%95%EB%A6%AC%EC%BB%A4%ED%94%BC/@35.1457751,126.9307744,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNSqz-PurPVFrJVotB_vjUJoyD3ftxSJtLbahtZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNSqz-PurPVFrJVotB_vjUJoyD3ftxSJtLbahtZ%3Dw114-h86-k-no!7i4160!8i3120!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x8458f7b316da4799!8m2!3d35.1457751!4d126.9307753#",
+                "https://www.google.co.kr/maps/place/%EA%B0%95%EB%A6%AC%EC%BB%A4%ED%94%BC/@35.1457751,126.9307744,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNSqz-PurPVFrJVotB_vjUJoyD3ftxSJtLbahtZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNSqz-PurPVFrJVotB_vjUJoyD3ftxSJtLbahtZ%3Dw114-h86-k-no!7i4160!8i3120!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x8458f7b316da4799!8m2!3d35.1457751!4d126.9307753#",
+                "https://www.google.co.kr/maps/place/%EA%B0%95%EB%A6%AC%EC%BB%A4%ED%94%BC/@35.1457751,126.9307744,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNSqz-PurPVFrJVotB_vjUJoyD3ftxSJtLbahtZ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNSqz-PurPVFrJVotB_vjUJoyD3ftxSJtLbahtZ%3Dw114-h86-k-no!7i4160!8i3120!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x8458f7b316da4799!8m2!3d35.1457751!4d126.9307753#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "아메리카노",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_2": {
+                        "name": "카페라떼",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMWo2xRgBXrJQIUEs6qu3na11klJBbowj5mg31D!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMWo2xRgBXrJQIUEs6qu3na11klJBbowj5mg31D%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+                    },
+                    "Drink_3": {
+                        "name": "바닐라라떼",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_4": {
+                        "name": "카라멜마끼야또",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_5": {
+                        "name": "콜드브루",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOfpZPbDpMCyc_TsZHQjTyBxE7vRXuE_0LBx9hJ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOfpZPbDpMCyc_TsZHQjTyBxE7vRXuE_0LBx9hJ%3Dw203-h360-k-no!7i2268!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "모닝빵",
+                        "price": "4000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMDhfNCAg%2FMDAxNjA0ODM5NTg1MDAw.lD8OGUJyKmwc_BPEqoHikq9sYfj8fJTPCiQI59hqFEQg.1dopcUxIUqBeAMT4LcNugkhMouv2JNfCoITDgev0YNQg.JPEG.cyh_0919%2F10.jpg&type=sc960_832"
+                    },
+                    "Bakery_2": {
+                        "name": "다크초코빵",
+                        "price": "3000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MDFfMjEy%2FMDAxNTk2MjU2MTczMjY5.Ihm1ZIahMvir4kLnxCYEByFPp8Twp9pFloCraA7jItEg.Zeka6pJ--2GQeX1HpJyRVw50RB1Bk6y_F10DAam-2sQg.JPEG.jdr21035%2FIMG_9226.jpg&type=sc960_832"
+                    },
+                    "Bakery_3": {
+                        "name": "코코넛빵",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2Fdata44%2F2009%2F5%2F25%2F253%2Fimg_0862_julie7000.jpg&type=sc960_832"
+                    },
+                    "Bakery_4": {
+                        "name": "우유빵",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMjVfMjkx%2FMDAxNjAzNTg5MjI4MTcw.q3xCkXe3bpA0N2aQxJNF2avQjybGFjtWlWwBRaJgpLAg.9oZZDik_mk19Ch6EcFUkPp06tm5jZnEhRA-Bjlf0hnsg.JPEG.onlypil5492%2F20201025%25A3%25DF101741.jpg&type=sc960_832"
+                    },
+                    "Bakery_5": {
+                        "name": "크림빵",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "가래떡",
+                        "price": "가격",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMDZfMTE1%2FMDAxNjA0NjU2Njc1NDg5.E7HX56BHOSi_jkD_8G-4eD8C_z-rnWxL0ZzYW3b_ltIg.71FLQINI8jcJnXzlhg2nSnBheX2UvcFdgHIB_peZ3jEg.JPEG.soncci72%2FKakaoTalk_20201106_153943008_02.jpg&type=a340"
+                    },
+                    "Goods_2": {
+                        "name": "송편",
+                        "price": "가격",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAyMDA2MjNfMTgx%2FMDAxNTkyODc1Mzg0NTgz.99x3-j1uKbJ_XstNYIieYPsyb3U12dDJE9xBQ3bgH4kg.DYPw2Zqnm0HU7RidkKu1UdY30Vtaf1rOQSyDJzReCl8g.JPEG%2FexternalFile.jpg&type=a340"
+                    },
+                    "Goods_3": {
+                        "name": "꿀떡",
+                        "price": "가격",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fcafefiles.naver.net%2FMjAyMDA2MjNfMTgx%2FMDAxNTkyODc1Mzg0NTgz.99x3-j1uKbJ_XstNYIieYPsyb3U12dDJE9xBQ3bgH4kg.DYPw2Zqnm0HU7RidkKu1UdY30Vtaf1rOQSyDJzReCl8g.JPEG%2FexternalFile.jpg&type=a340"
+                    },
+                    "Goods_4": {
+                        "name": "팥떡",
+                        "price": "가격",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMzBfMTM0%2FMDAxNjA0MDI5MzAxOTI3.F51QsvI22uxkPb7WW4-CvYVyHC3hg0lYocbuNbjHEKEg.Orco6wlBol6HeIYT1f92MxNfLkZgUAHahdu6CQBMKPcg.JPEG.poohseong%2FKakaoTalk_20201028_130306757_07.jpg&type=a340"
+                    },
+                    "Goods_5": {
+                        "name": "무지개떡",
+                        "price": "가격",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MTlfNjEg%2FMDAxNTk3ODIzNjEyOTEx.wgYlaLB9KzpTWG7IqEAxvPXMni6HXwT8m6HkSIhpgSAg.2imMZYcmEGwgamOfmKE1MLGhZ3JSa41d237c5wm75pwg.JPEG.shj7926%2F1597823612229.jpg&type=ofullfill340_600"
+                    }
+                }
+            }
+        },
+        "Store_7": { 
+            "name": "갸또에카페",
+            "address": "광주광역시 동구 장동 68-5",
+            "lat": "35.1531299",
+            "lon": "126.9128515",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/%EA%B0%B8%EB%98%90%EC%97%90%EC%B9%B4%ED%8E%98/@35.1489813,126.9232456,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMNhP3wcnvFg3VbaYbFNRC4uieMGHci8JOmqE4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMNhP3wcnvFg3VbaYbFNRC4uieMGHci8JOmqE4%3Dw129-h86-k-no!7i2048!8i1360!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x771196445a2ce915!8m2!3d35.1489815!4d126.9232464#",
+                "https://www.google.co.kr/maps/place/%EA%B0%B8%EB%98%90%EC%97%90%EC%B9%B4%ED%8E%98/@35.1489813,126.9232456,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMNhP3wcnvFg3VbaYbFNRC4uieMGHci8JOmqE4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMNhP3wcnvFg3VbaYbFNRC4uieMGHci8JOmqE4%3Dw129-h86-k-no!7i2048!8i1360!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x771196445a2ce915!8m2!3d35.1489815!4d126.9232464#",
+                "https://www.google.co.kr/maps/place/%EA%B0%B8%EB%98%90%EC%97%90%EC%B9%B4%ED%8E%98/@35.1489813,126.9232456,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMNhP3wcnvFg3VbaYbFNRC4uieMGHci8JOmqE4!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMNhP3wcnvFg3VbaYbFNRC4uieMGHci8JOmqE4%3Dw129-h86-k-no!7i2048!8i1360!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x771196445a2ce915!8m2!3d35.1489815!4d126.9232464#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "아메리카노",
+                        "price": "12500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_2": {
+                        "name": "카페라떼",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMWo2xRgBXrJQIUEs6qu3na11klJBbowj5mg31D!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMWo2xRgBXrJQIUEs6qu3na11klJBbowj5mg31D%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+                    },
+                    "Drink_3": {
+                        "name": "바닐라라떼",
+                        "price": "2000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_4": {
+                        "name": "카라멜마끼야또",
+                        "price": "2000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20160702_183%2Fwjstjf820_1467434003019fo502_JPEG%2F20160702_130411.jpg&type=sc960_832"
+                    },
+                    "Drink_5": {
+                        "name": "콜드브루",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%BB%A4%ED%94%BC%EB%A3%A9+%EB%B0%B1%EC%9A%B4%EC%A0%90/@35.1404615,126.9059474,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOfpZPbDpMCyc_TsZHQjTyBxE7vRXuE_0LBx9hJ!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOfpZPbDpMCyc_TsZHQjTyBxE7vRXuE_0LBx9hJ%3Dw203-h360-k-no!7i2268!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0xed830330f087af5c!8m2!3d35.1404618!4d126.9059475#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "알빵",
+                        "price": "6000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20090917_27%2Fksyj1005_12531976124076riMp_jpg%2F2009_0811%2528010%2529_ksyj1005.jpg&type=a340"
+                    },
+                    "Bakery_2": {
+                        "name": "고로케",
+                        "price": "3500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20120422_135%2Fsysycan70_1335064738557v3ugP_JPEG%2FSANY0290.JPG&type=a340"
+                    },
+                    "Bakery_3": {
+                        "name": "소시지빵",
+                        "price": "2700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjFfMTQ1%2FMDAxNjA4NDc4MzgwNjA4.4mngw-JKP9CLQEqsH-aONwDtgd2VAlnEEy_FIgjhfgMg.iSzikhtdo1QMI1mxybnv5JzMBSe2wMvHbC2pg4oVnzIg.JPEG.balluff%2F20201220%25A3%25DF174035.jpg&type=a340"
+                    },
+                    "Bakery_4": {
+                        "name": "피자빵",
+                        "price": "3700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMjVfMjkx%2FMDAxNjAzNTg5MjI4MTcw.q3xCkXe3bpA0N2aQxJNF2avQjybGFjtWlWwBRaJgpLAg.9oZZDik_mk19Ch6EcFUkPp06tm5jZnEhRA-Bjlf0hnsg.JPEG.onlypil5492%2F20201025%25A3%25DF101741.jpg&type=sc960_832"
+                    },
+                    "Bakery_5": {
+                        "name": "햄빵",
+                        "price": "2800",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20110707_73%2Fanmounghui70_1310025877897DDz4x_JPEG%2FSDC10429.JPG&type=a340"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "치킨햄버거",
+                        "price": "3500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMDhfMTM5%2FMDAxNjAyMTU1OTk5NDU1.VtlDjnlxW8sQQo519g5lnPVOP9LgqEnQO5uSX-NVEFQg.pKkDhucjnUl0jivI1iwdvFGVpvHfIy2zUl_y-Nj7-Ckg.JPEG.mstart6241%2F20190726_191232.jpg&type=a340"
+                    },
+                    "Goods_2": {
+                        "name": "닭고기햄버거",
+                        "price": "3500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjZfMTQ3%2FMDAxNjA4OTg2MzcwOTQx.ARffSR51rweEOOZcxVVpBHFBuoTkBFWM6MxOxHC74twg.7kg00GrRY3yKLPzBoVtu9lhOGbQZglOu5xqJQvdxwpQg.JPEG.jinjoo01%2FIMG_5093.jpg&type=a340"
+                    },
+                    "Goods_3": {
+                        "name": "핫크리스피버거",
+                        "price": "5500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA3MDlfMzAg%2FMDAxNTk0MjY5ODc4ODU0.d7J4wj4RNm_0twUkJc2Ldyc2x4ZvZNU4pdcdzkA4zmMg.dZrbXUe9NjofiREmVylh5VsuyLk8Hb8uASfTI1_fIuMg.JPEG.uzkcc%2F06_%25B4%25BA%25BF%25E5_01.jpg&type=a340"
+                    },
+                    "Goods_4": {
+                        "name": "군대리아",
+                        "price": "9000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjFfMTY1%2FMDAxNjA4NTU4OTMwOTc2.nZs39FlysrdHfRkAm2kEwY-58WofhBG5pXHS7hnjXC4g.6ZwxMLTaihKUD0BKcyeyTWC-jYRyTPwxpIhYiA-iohwg.JPEG.sukm83%2Fzy16.JPG&type=a340"
+                    },
+                    "Goods_5": {
+                        "name": "치즈버거",
+                        "price": "2500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMTAxMDFfMTQw%2FMDAxNjA5NDgwNTg0MzQ5.4ZgF4VLF-iEhXvDZr1B4NsmIA_5Ffzil06sxJu1Z7i4g.DDV1TbbX9pOQCYf8aAFxjBubrtviX97ighohYUK8aoYg.JPEG.hihi-1%2F20210101%25A3%25DF130234.jpg&type=a340"
+                    }
+                }
+            }
+        },
+        "Store_8": { 
+            "name": "카페오메",
+            "address": "광주광역시 서구 쌍촌동 운천로 159 2층",
+            "lat": "35.1467906",
+            "lon": "126.8478448",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A9%94/@35.1467906,126.8565995,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-%3Dw176-h86-k-no!7i4032!8i1960!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718935b2cbcfdb:0x7d30d021b2d967b9!8m2!3d35.1467906!4d126.8565995#",
+                "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A9%94/@35.1467906,126.8565995,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-%3Dw176-h86-k-no!7i4032!8i1960!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718935b2cbcfdb:0x7d30d021b2d967b9!8m2!3d35.1467906!4d126.8565995#",
+                "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A9%94/@35.1467906,126.8565995,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-%3Dw176-h86-k-no!7i4032!8i1960!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718935b2cbcfdb:0x7d30d021b2d967b9!8m2!3d35.1467906!4d126.8565995#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "자몽에이드",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Drink_2": {
+                        "name": "아메리카노",
+                        "price": "1500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Drink_3": {
+                        "name": "녹차라떼",
+                        "price": "1800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A9%94/@35.1467906,126.8565995,3a,75y/data=!3m8!1e2!3m6!1sAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-%3Dw176-h86-k-no!7i4032!8i1960!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718935b2cbcfdb:0x7d30d021b2d967b9!8m2!3d35.1467906!4d126.8565995#"
+                    },
+                    "Drink_4": {
+                        "name": "초콜릿라떼",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A9%94/@35.1467906,126.8565995,3a,75y/data=!3m8!1e2!3m6!1sAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-%3Dw176-h86-k-no!7i4032!8i1960!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718935b2cbcfdb:0x7d30d021b2d967b9!8m2!3d35.1467906!4d126.8565995#"
+                    },
+                    "Drink_5": {
+                        "name": "딸기라떼",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98%EC%98%A4%EB%A9%94/@35.1467906,126.8565995,3a,75y/data=!3m8!1e2!3m6!1sAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOhlRey9iue0NaI5vvpXHS8aprckjiryzyjNnU-%3Dw176-h86-k-no!7i4032!8i1960!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x35718935b2cbcfdb:0x7d30d021b2d967b9!8m2!3d35.1467906!4d126.8565995#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "크림빵",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDExMDhfNCAg%2FMDAxNjA0ODM5NTg1MDAw.lD8OGUJyKmwc_BPEqoHikq9sYfj8fJTPCiQI59hqFEQg.1dopcUxIUqBeAMT4LcNugkhMouv2JNfCoITDgev0YNQg.JPEG.cyh_0919%2F10.jpg&type=sc960_832"
+                    },
+                    "Bakery_2": {
+                        "name": "고로케",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDA4MDFfMjEy%2FMDAxNTk2MjU2MTczMjY5.Ihm1ZIahMvir4kLnxCYEByFPp8Twp9pFloCraA7jItEg.Zeka6pJ--2GQeX1HpJyRVw50RB1Bk6y_F10DAam-2sQg.JPEG.jdr21035%2FIMG_9226.jpg&type=sc960_832"
+                    },
+                    "Bakery_3": {
+                        "name": "붕어빵",
+                        "price": "500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20101226_281%2Fnis050301li_1293369246956BF6Vl_JPEG%2F%25BB%25F5%25BF%25EC%25BB%25A7.jpg&type=a340"
+                    },
+                    "Bakery_4": {
+                        "name": "새우살빵",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMDlfNzYg%2FMDAxNTczMjU5MzgwMzEy.7Sl51o6An72f4MV1_UgswvDaGKjx_5xPXETsFqbNX18g.U0gR2_kooklYNh6bsbPsvUbCeuQ6oe7DVrcqO-cq97Mg.JPEG.arkandfifa%2F20180609_180636.jpg&type=a340"
+                    },
+                    "Bakery_5": {
+                        "name": "귤빵",
+                        "price": "800",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fshop1.phinf.naver.net%2F20201028_190%2F1603864571678nT3ii_JPEG%2F5000470385621978_954084116.jpg&type=a340"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "어벤저스피규어",
+                        "price": "30000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxOTExMTNfMTAw%2FMDAxNTczNTgwNzA3MDQ2.E6-AqE7802Ospb6xNOWrzRqJqbZEfJKxswBoBkgvJ1cg.Ie46HjSHSwWrHr9vO8O9fV6gt1N_CkGrkrLHTbbxcrkg.JPEG.besson13h%2F1573580705996.jpg&type=a340"
+                    },
+                    "Goods_2": {
+                        "name": "푸우피규어",
+                        "price": "20000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_2401490%2F24014900562.20200903021307.jpg&type=a340"
+                    },
+                    "Goods_3": {
+                        "name": "도라에몽피규어",
+                        "price": "15000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_1622127%2F16221273747.jpg&type=a340"
+                    },
+                    "Goods_4": {
+                        "name": "오버워치피규어",
+                        "price": "35000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_2455549%2F24555492106.jpg&type=a340"
+                    },
+                    "Goods_5": {
+                        "name": "피카츄피규어",
+                        "price": "5000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_8226868%2F82268689863.1.jpg&type=a340"
+                    }
+                }
+            }
+        },
+        "Store_9": { 
+            "name": "카페보노",
+            "address": "광주광역시 서구 쌍촌동 870-10",
+            "lat": "35.1468191",
+            "lon": "126.8546479",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#",
+                "https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#",
+                "https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "아메리카노",
+                        "price": "1500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#"
+                    },
+                    "Drink_2": {
+                        "name": "카페라떼",
+                        "price": "200",
+                        "imgUrl":"https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#"
+                    },
+                    "Drink_3": {
+                        "name": "밀크티",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#"
+                    },
+                    "Drink_4": {
+                        "name": "그린티",
+                        "price": "4500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EA%B3%B5%EC%B0%A8+%EB%82%98%EC%A3%BC%EB%B9%9B%EA%B0%80%EB%9E%8C%EC%A0%90/@35.0227413,126.7851429,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipO-3Rf6aLas0RFiFp5VBk64ObtzeKEbjmlxQNl7%3Dw203-h152-k-no!7i4032!8i3024!4m8!1m2!2m1!1z64us66as64qUIOy7pO2UvCDrgpjso7ztmIHsi6A!3m4!1s0x0:0x60050318822f1047!8m2!3d35.022741!4d126.7851428#"
+                    },
+                    "Drink_5": {
+                        "name": "캐모마일",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Cafe+Bono/@35.1468191,126.8546479,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMlFSY5G_qMHJfLX1H5CEFE8ikxmDWdep6lBozq%3Dw114-h86-k-no!7i4032!8i3024!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x98155d80568a14d0!8m2!3d35.146819!4d126.8546489#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "참소라빵",
+                        "price": "1000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20090917_27%2Fksyj1005_12531976124076riMp_jpg%2F2009_0811%2528010%2529_ksyj1005.jpg&type=a340"
+                    },
+                    "Bakery_2": {
+                        "name": "고로케",
+                        "price": "1500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20120422_135%2Fsysycan70_1335064738557v3ugP_JPEG%2FSANY0290.JPG&type=a340"
+                    },
+                    "Bakery_3": {
+                        "name": "소시지빵",
+                        "price": "1700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEyMjFfMTQ1%2FMDAxNjA4NDc4MzgwNjA4.4mngw-JKP9CLQEqsH-aONwDtgd2VAlnEEy_FIgjhfgMg.iSzikhtdo1QMI1mxybnv5JzMBSe2wMvHbC2pg4oVnzIg.JPEG.balluff%2F20201220%25A3%25DF174035.jpg&type=a340"
+                    },
+                    "Bakery_4": {
+                        "name": "피자빵",
+                        "price": "1700",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMjVfMjkx%2FMDAxNjAzNTg5MjI4MTcw.q3xCkXe3bpA0N2aQxJNF2avQjybGFjtWlWwBRaJgpLAg.9oZZDik_mk19Ch6EcFUkPp06tm5jZnEhRA-Bjlf0hnsg.JPEG.onlypil5492%2F20201025%25A3%25DF101741.jpg&type=sc960_832"
+                    },
+                    "Bakery_5": {
+                        "name": "바엔나소시지빵",
+                        "price": "1800",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20110707_73%2Fanmounghui70_1310025877897DDz4x_JPEG%2FSDC10429.JPG&type=a340"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "쟈스민향디퓨저",
+                        "price": "5000",
+                        "imgUrl": "https://search.pstatic.net/sunny/?src=https%3A%2F%2Fimage.ohou.se%2Fi%2Fbucketplace-v2-development%2Fuploads%2Fcards%2Fsnapshots1582487049_877100.jpeg%3Fgif%3D1%26w%3D720&type=a340"
+                    },
+                    "Goods_2": {
+                        "name": "바닐라향디퓨저",
+                        "price": "5500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20140823_60%2Fsysh0918_1408785209672Ft8aE_JPEG%2FNaverBlog_20140823_181313_02.jpg&type=a340"
+                    },
+                    "Goods_3": {
+                        "name": "코튼향디퓨저",
+                        "price": "5500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_1771863%2F17718630144.jpg&type=a340"
+                    },
+                    "Goods_4": {
+                        "name": "숲속향디퓨저",
+                        "price": "5000",
+                        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fshopping-phinf.pstatic.net%2Fmain_2517131%2F25171315609.20201210191222.jpg&type=a340"
+                    },
+                    "Goods_5": {
+                        "name": "아쿠아향디퓨저",
+                        "price": "5500",
+                        "imgUrl": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxNzAzMTdfMTE4%2FMDAxNDg5NzMwOTk1Nzc5._QEylIBG5KIgC2oRymbS0RA4WjoTUoLV3FjeApzCOGMg.40gBsZLzXBwlIb_YuEUxKJxeIv7wE55z2_qCjoMUYyUg.JPEG.hamami10%2F16.JPG&type=a340"
+                    }
+                }
+            }
+        },
+        "Store_10": { 
+            "name": "Hello L",
+            "address": "광주광역시 서구 상무1동 상무민주로32번길 3-22",
+            "lat": "35.1468191",
+            "lon": "126.8546479",
+            "storeImg": [
+                "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#",
+                "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#",
+                "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+            ],
+            "Menu": {
+                "Drink": { 
+                    "Drink_1": {
+                        "name": "딸기라떼",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Drink_2": {
+                        "name": "아메리카노",
+                        "price": "2000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Drink_3": {
+                        "name": "눈사람라떼",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Drink_4": {
+                        "name": "카페라떼",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Drink_5": {
+                        "name": "곡물라떼",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    }
+                },
+                "Bakery": { 
+                    "Bakery_1": {
+                        "name": "티라미수",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_2": {
+                        "name": "딸기티라미수",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_3": {
+                        "name": "오렌지티라미수",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_4": {
+                        "name": "라이트티라미수",
+                        "price": "1000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    },
+                    "Bakery_5": {
+                        "name": "자몽초콜릿빵",
+                        "price": "1800",
+                        "imgUrl": "https://www.google.co.kr/maps/place/%EC%B9%B4%ED%8E%98+%EB%84%8C%EC%A7%80%EC%8B%9C/@35.1525398,126.9270695,2a,54.2y/data=!3m8!1e2!3m6!1sAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNJFq6nf6VxAC8StHGW6LcvmaD9LbO3lWz0CWEt%3Dw203-h270-k-no!7i3024!8i4032!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x6bc9d2f296882a86!8m2!3d35.1525409!4d126.9270685#"
+                    }
+                },
+                "Goods": { 
+                    "Goods_1": {
+                        "name": "도라에몽과자",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Goods_2": {
+                        "name": "짱구과자",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Goods_3": {
+                        "name": "마시멜로과자",
+                        "price": "3500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Goods_4": {
+                        "name": "레고과자",
+                        "price": "2500",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    },
+                    "Goods_5": {
+                        "name": "괴물과자",
+                        "price": "3000",
+                        "imgUrl": "https://www.google.co.kr/maps/place/Hello+L/@35.1542999,126.8592624,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOrwFcqzcT_ziCdVF3lTLTsuWk4pngKX5EOS7fv%3Dw114-h86-k-no!7i4618!8i3464!4m8!1m2!2m1!1z7Lm07Y6Y!3m4!1s0x0:0x979a8558ce2d2440!8m2!3d35.1542997!4d126.8592623#"
+                    }
+                }
+            }
+        }
+   
+    }
+}

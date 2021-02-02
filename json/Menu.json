@@ -1,0 +1,180 @@
+
+{
+    "Drink": {
+        "D001": {
+            "id":"D001",
+            "name": "자스민그린티",
+            "enName": "greentea-jasmine",
+            "price": "300",
+            "imgUrl": "https://www.twosome.co.kr:7009/Twosome_file/PRODUCT/947_big_img",
+            "option": {
+                "temp": ["Hot","Ice"],
+                "size": ["Small","Large"],
+                "cup": ["매장컵","일회용컵","개인컵"]
+            },
+            "best": true 
+        },
+        "D002": {
+            "id":"D002",
+            "name": "아메리카노",
+            "enName": "Americano",
+            "price": "100",
+            "imgUrl": "https://media.timeout.com/images/102189243/630/472/image.jpg",
+            "option": {
+                "temp": ["Hot","Ice"],
+                "size": ["Small","Large"],
+                "cup": ["매장컵","일회용컵","개인컵"]
+            },
+            "best": true 
+        },
+        "D003": {
+            "id":"D003",
+            "name": "카페라떼",
+            "enName": "CafeLatte",
+            "price": "200",
+            "imgUrl": "https://www.twosome.co.kr:7009/Twosome_file/PRODUCT/175_big_img",
+            "option": {
+                "temp": ["Hot","Ice"],
+                "size": ["Small","Large"],
+                "cup": ["매장컵","일회용컵","개인컵"]
+            },
+            "best": true 
+        },
+        "D004": {
+            "id":"D004",
+            "name": "바닐라라떼",
+            "enName": "VanillaLatte",
+            "price": "200",
+            "imgUrl": "https://lh3.googleusercontent.com/proxy/WMvtgu1BqBgWppX66VZc71crHyAIfl5mQCZR58VjPHwz1Na1W57xU7gCIJPkjzvvCs9DM_sEVok9Pd81PUKtvq6cWVexu8j7NZjaBRwbU0t5Ue9R",
+            "option": {
+                "temp": ["Hot","Ice"],
+                "size": ["Small","Large"],
+                "cup": ["매장컵","일회용컵","개인컵"]
+            },
+            "best": true 
+        },
+        "D005": {
+            "id":"D005",
+            "name": "카라멜마끼야또",
+            "enName": "CaramelMakiyato",
+            "price": "300",
+            "imgUrl": "https://www.paris.co.kr/wp-content/uploads/200507_%EC%B9%B4%EB%9D%BC%EB%A9%9C%EB%A7%88%EB%81%BC%EC%95%BC%EB%98%90-%EC%95%84%EC%9D%B4%EC%8A%A4-1280x1280.jpg",
+            "option": {
+                "temp": ["Hot","Ice"],
+                "size": ["Small","Large"],
+                "cup": ["매장컵","일회용컵","개인컵"]
+            },
+            "best": true 
+        }
+    },
+    "Bakery": { 
+        "B001": {
+            "id":"B001",
+            "name": "홍게빵",
+            "enName": "CrabBread",
+            "price": "200",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtVFvF9GnZgYDwZozXXmcJ9FGw_H-CmWMuAw&usqp=CAU",
+            "option": {
+                "warm": ["따뜻하게 데움", "데우지않음"]
+            },
+            "best": false
+        },
+        "B002": {
+            "id":"B002",
+            "name": "고로케",
+            "enName": "Croquette",
+            "price": "200",
+            "imgUrl": "https://image.auction.co.kr/itemimage/1a/db/e8/1adbe82126.jpg",
+            "option": {
+                "warm": ["따뜻하게 데움", "데우지않음"]
+            },
+            "best": false
+        },
+        "B003": {
+            "id":"B003",
+            "name": "코코넛빵",
+            "enName": "CoconutBread",
+            "price": "200",
+            "imgUrl": "https://www.bakingnara.co.kr/shopimages/peokoe/0220070000313.jpg",
+            "option": {
+                "warm": ["따뜻하게 데움", "데우지않음"]
+            },
+            "best": false
+        
+        },
+        "B004": {
+            "id":"B004",
+            "name": "크림빵",
+            "enName": "CreamBread",
+            "price": "100",
+            "imgUrl": "https://cookiebebe.com/shopimages/cookiebebe/003002000032.jpg?1500965680",
+            "option": {
+                "warm": ["따뜻하게 데움", "데우지않음"]
+            },
+            "best": false
+        },
+        "B005": {
+            "id":"B005",
+            "name": "우유빵",
+            "enName": "MilkBread",
+            "price": "100",
+            "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsnxlTFhYixckLFnkjCMkLf63oZSk3ryotXQ&usqp=CAU",
+            "option": {
+                "warm": ["따뜻하게 데움", "데우지않음"]
+            },
+            "best": false
+        }
+    },
+    "Goods": { 
+        "G001": {
+            "id":"G001",
+            "name": "감귤초콜릿",
+            "enName": "TangerineChoco",
+            "price": "50",
+            "imgUrl": "https://img.wemep.co.kr/deal/6/645/3226456/63dddd332e12edf004782afc5d89065c2f084668.jpg",
+            "option" : {
+                "wrapping" : ["Y","N"]
+            }
+        },
+        "G002": {
+            "id":"G002",
+            "name": "쟈스민향디퓨저",
+            "enName": "defuserJasmine",
+            "price": "500",
+            "imgUrl": "https://gdimg.gmarket.co.kr/724077542/still/600?ver=0",
+            "option" : {
+                "wrapping" : ["Y","N"]
+            }
+        },
+        "G003": {
+            "id":"G003",
+            "name": "코튼향디퓨저",
+            "enName": "defusercotton",
+            "price": "500",
+            "imgUrl": "https://www.dailysecu.com/news/photo/201810/39917_32454_3749.jpg",
+            "option" : {
+                "wrapping" : ["Y","N"]
+            }
+        },
+        "G004": {
+            "id":"G004",
+            "name": "엔로버초콜릿",
+            "enName": "enroberChoco",
+            "price": "600",
+            "imgUrl": "https://i.ytimg.com/vi/xahkuYFWJkI/maxresdefault.jpg",
+            "option" : {
+                "wrapping" : ["Y","N"]
+            }
+        },
+        "G005": {
+            "id":"G005",
+            "name": "화이트초콜릿",
+            "enName": "whiteChoco",
+            "price": "60",
+            "imgUrl": "https://previews.123rf.com/images/olegdudko/olegdudko1510/olegdudko151000955/46060083-%ED%99%94%EC%9D%B4%ED%8A%B8-%EC%B4%88%EC%BD%9C%EB%A6%BF-.jpg",
+            "option" : {
+                "wrapping" : ["Y","N"]
+            }
+        }
+    }
+}

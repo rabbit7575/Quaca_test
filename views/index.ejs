@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  <script>
+  
+    function btn_click(str){                             
+        if(str=="menu"){      
+          console.log("11");                      
+            frm1.action="/menu";      
+        } else if(str=="detail"){      
+            frm2.action="/menu/detail";      
+        }  else if(str=="user"){      
+            frm3.action="/menu/user";      
+        }else if(str=="AllMenu"){      
+            frm4.action="/menu/AllMenu";      
+        }else if(str=="StoreInfo"){
+          frm4.action="/menu/StoreInfo"; 
+        }else if(str=="QUser"){
+          frm5.action="/users/users"; 
+        }else if(str=="Qmenu"){
+          frm6.action="/menu/Qmenu"; 
+        }else if(str=="QStoreInfo"){
+          frm7.action="/QStore/store_all"; 
+        }else if(str=="QUserPay"){
+          frm8.action="/orders/QUserPay"; 
+        }else if(str=="QUserPayDetail"){
+          frm9.action="/orders/QUserPayDetail"; 
+        }else if(str=="signup"){
+          frm5.action="/users"; 
+        }else if(str=="mongo"){
+          frm10.action="/notice"; 
+        }else if(str=="msearch"){
+          frm10.action="/notice/order"; 
+        }
+    }
+   </script>
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>heroku Url : <%= hUrl %><br/>현재  Url : <%= Url %></p>
+    <form name="frm1" method="GET">
+    <%= Url %>/menu?email=  <input type="text" name ="email"> 
+       <input type = "submit" value="주문내역"  onclick='btn_click("menu")';><br/>
+       drivejoe@naver.com,  drivejoe@naver.com,  wedding@naver.com,  imsorry@naver.com,  whatsorry@naver.com   
+    </form> <br/><br/>
+    <form name="frm2" method="GET">
+      <%= Url %>/menu/detail?payuid= 
+      <input type="text" name="payUid">
+        <input type = "submit" value="주문내역상세"  onclick='btn_click("detail");'><br/>
+      210121-D001, 210121-B001, 210121-D002, 210121-G001, 210301-G002, 210302-G002, 210121-G002, 210302-G003, 210303-G003       
+    </form> <br/><br/>
+
+    <form name="frm3" method="GET">
+      <%= Url %>/menu/user?email= 
+      <input type="text" name ="email"> 
+      <input type = "submit" value="사용자정보"  onclick='btn_click("user");'> <br/>
+      drivejoe@naver.com,  drivejoe@naver.com,  wedding@naver.com,  imsorry@naver.com,  whatsorry@naver.com 
+    </form><br/><br/>
+
+    <form name="frm4" method="GET">
+      <%= Url %>/menu/AllMenu 
+      <input type = "submit" value="메뉴목록"  onclick='btn_click("AllMenu");'><br/><br/>
+      <%= Url %>/menu/StoreInfo 
+      <input type = "submit" value="매장목록"  onclick='btn_click("StoreInfo");'>
+    </form> <br/>
+    ==========================<br/>
+    ======= Maria DB ===========<br/>
+    ==========================<br/>
+    <form name="frm5" method="GET">
+      <%= Url %>/users/users?email=
+      <input type="text" name="email"style="width:130px">
+      <input type = "submit" value="유저목록"  onclick='btn_click("QUser");'>
+      <input type="submit" value="회원가입" onclick='btn_click("signup")'><br/>
+      lion8733@naver.com
+    </form><br/><br/>
+
+    <form name="frm6" method="GET">
+      <%= Url %>/menu/Qmenu?menu=
+      <input type="text" name="menu"style="width:130px">
+      <input type = "submit" value="메뉴목록"  onclick='btn_click("Qmenu");'><br/>
+      B001,D001,G001
+    </form><br/><br/>
+
+    <form name="frm7" method="GET">
+      <%= Url %>/QStore/store_all?QId=
+      <input type="text" name="QId"style="width:130px">
+      <input type = "submit" value="매장목록"  onclick='btn_click("QStoreInfo");'><br/>
+      351261 
+    </form><br/><br/>
+
+    <form name="frm8" method="GET">
+      <%= Url %>/orders/QUserPay?email=
+      <input type="text" name="email"style="width:130px">
+      <input type = "submit" value="주문내역" onclick='btn_click("QUserPay");'><br/>
+      lion8733@naver.com
+    </form><br/><br/>
+
+    <form name="frm9" method="GET">
+      <%= Url %>/orders/QUserPayDetail?email=
+      <input type="text" name="email"style="width:130px">
+      &PayUid=
+      <input type="text" name="PayUid"style="width:86px">
+      <input type = "submit" value="주문상세내역"  onclick='btn_click("QUserPayDetail");'><br/>
+      lion8733@naver.com, 210121-D001
+    </form><br/>
+    ==========================<br/>
+    ======= Mongo DB ===========<br/>
+    ==========================<br/>
+    <form name="frm10" method="GET">
+      <%= Url %>http://localhost:3001/notice/order?
+      <input type = "submit" value="사용자조회" onclick='btn_click("msearch");'>
+      <input type = "submit" value="상세" onclick='btn_click("mongo");'>
+    </form><br/><br/>
+
+  </body>
+</html>

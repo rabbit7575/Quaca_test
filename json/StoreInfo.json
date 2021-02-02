@@ -1,0 +1,17 @@
+{
+    "StoreInfo": {
+        "name": "커피룩 백운점",
+        "openTime": "09:00",
+        "closeTime": "20:00",
+        "dayOff": "매주 일요일",
+        "tel": "062-123-4567",
+        "address": "광주광역시 남구 백운1동 35",
+        "lat": "35.1404615",
+        "lon": "126.9059474",
+        "mainImgUrl": "https://www.startuptoday.co.kr/news/photo/201706/1501714978_26033.jpg",
+        "detailImgUrl": [
+            "https://post-phinf.pstatic.net/MjAxODExMjNfMjY4/MDAxNTQyOTUwMzA1ODY1.bsTseaq2lRISis9bx06wM4CUdIaBaHpAkTrTtN_UKtAg.SSWGoIp4ZT9npmLOxiuLorx2tnYS7cFTNCQ9G-vMl54g.JPEG/image_5719298601542950186597.jpg?type=w1200",
+            "https://i.ytimg.com/vi/45G3McH8y1M/maxresdefault.jpg"
+        ]
+    }
+}

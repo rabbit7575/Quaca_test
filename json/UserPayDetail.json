@@ -1,0 +1,314 @@
+{
+    "UserPayDetail": {
+        "210121-D001": {
+            "orderNum": "D001",
+            "payUid": "210121-D001",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {
+                    "name": "자스민그린티",
+                    "price": "300",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Small",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "홍게빵",
+                    "price": "200",
+                    "option": {
+                        "warm": "따뜻하게 데움"
+                    }
+                },
+                {
+                    "name": "코튼향디퓨저",
+                    "price": "500",
+                    "option": {
+                        "wrapping": "Y"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-01-21 14:15:15",
+            "menuCompleteTime": "2021-01-21 14:17:00",
+            "totalPrice": "1000"
+        },
+        "210121-B001": {
+            "orderNum": "B001",
+            "payUid": "210121-B001",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {
+                    "name": "고로케",
+                    "price": "200",
+                    "option": {
+                        "warm": "따뜻하게 데움"
+                    }
+                },
+                {
+                    "name": "아메리카노",
+                    "price": "100",
+                    "option": {
+                        "temp": "Ice",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-01-22 11:13",
+            "menuCompleteTime": "준비중",
+            "totalPrice": "300"
+        },
+        "210121-D002": {
+            "orderNum": "D002",
+            "payUid": "210121-D002",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {
+                    "name": "카페라떼",
+                    "price": "200",
+                    "option": {
+                        "temp": "Ice",
+                        "size": "Grande",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "코코넛빵",
+                    "price": "200",
+                    "option": {
+                        "warm": "따뜻하게 데움"
+                    }
+                },
+                {
+                    "name": "쟈스민향디퓨저",
+                    "price": "500",
+                    "option": {
+                        "wrapping" : "Y"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-02-21 11:21",
+            "menuCompleteTime": "2021-02-21 11:25",
+            "totalPrice": "900"
+        },
+        "210121-G001": {
+            "orderNum": "G001",
+            "payUid": "210121-G001",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {
+                    "name": "화이트초콜릿",
+                    "price": "60",
+                    "option": {
+                        "wrapping" : "N"
+                    }
+                },
+                {
+                    "name": "우유빵",
+                    "price": "100",
+                    "option": {
+                        "warm": "따뜻하게 데움"
+                    }
+                },
+                {
+                    "name": "카라멜마끼야또",
+                    "price": "300",
+                    "option": {
+                        "temp": "Ice",
+                        "size": "Small",
+                        "cup": "일회용컵"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-01-21 12:03",
+            "menuCompleteTime": "2021-01-21 12:04",
+            "totalPrice": "460"
+        },
+        "210301-G002": {
+            "orderNum": "G002",
+            "payUid": "210301-G002",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {
+                    "name": "엔로버초콜릿",
+                    "price": "600",
+                    "option": {
+                        "wrapping" : "N"
+                    }
+                },
+                {
+                    "name": "바닐라라떼",
+                    "price": "200",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "크림빵",
+                    "price": "100",
+                    "option": {
+                        "warm": "따뜻하게 데움"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-01-21 13:53",
+            "menuCompleteTime": "2021-01-21 13:55",
+            "totalPrice": "900"
+        },
+        "210302-G002": {
+            "orderNum": "G002",
+            "payUid": "210302-G002",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {
+                    "name": "엔로버초콜릿",
+                    "price": "600",
+                    "option": {
+                        "wrapping" : "N"
+                    }
+                },
+                {
+                    "name": "바닐라라떼",
+                    "price": "200",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "초코크림빵",
+                    "price": "200",
+                    "option": {
+                        "warm": "따뜻하게 데움"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-01-21 14:53",
+            "menuCompleteTime": "2021-01-21 14:55",
+            "totalPrice": "900"
+        },
+        "210121-G002": {
+            "orderNum": "G002",
+            "payUid": "210121-G002",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {     
+                    "name": "자스민그린티",
+                    "price": "300",
+                    "temp":"Hot",
+                    "size": "Small",
+                    "cup": "매장컵"
+                },
+                {
+                    "name": "바닐라라떼",
+                    "price": "200",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "아메리카노",
+                    "price": "150",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-01-21 13:03",
+            "menuCompleteTime": "2021-01-21 13:04",
+            "totalPrice": "600"
+        },
+        "210302-G003": {
+            "orderNum": "G003",
+            "payUid": "210121-G002",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {     
+                    "name": "카라멜마끼야또",
+                    "price": "300",
+                    "temp":"Hot",
+                    "size": "Small",
+                    "cup": "매장컵"
+                },
+                {
+                    "name": "바닐라라떼",
+                    "price": "200",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "홍게빵",
+                    "price": "150",
+                    "option": {
+                        "warm":  "데우지않음"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-03-01 13:53",
+            "menuCompleteTime": "2021-03-01 13:55",
+            "totalPrice": "650"
+        },
+        "210303-G003": {
+            "orderNum": "G003",
+            "payUid": "210302-G003",
+            "payMethod": "신용카드",
+            "orderCnt": 3,
+            "orderMenu": [
+                {     
+                    "name": "우유빵",
+                    "price": "100",
+                    "option": {
+                        "warm":  "데우지않음"
+                    }
+                },
+                {
+                    "name": "바닐라라떼",
+                    "price": "200",
+                    "option": {
+                        "temp": "Hot",
+                        "size": "Large",
+                        "cup": "일회용컵"
+                    }
+                },
+                {
+                    "name": "코코넛빵",
+                    "price": "200",
+                    "option": {
+                        "warm":  "데우지않음"
+                    }
+                }
+            ],
+            "orderStatus": "준비완료",
+            "payCompleteTime": "2021-03-02 13:53",
+            "menuCompleteTime": "2021-03-02 13:55",
+            "totalPrice": "500"
+        }
+    }
+}

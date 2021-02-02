@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> orders </title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <h1> please orders</h1>
+    <p> please orders </p>
+
+    <script>
+        $("#search").click(function () {
+            $("form").attr("action", "/notice/search");
+        });
+        $("#insert").click(function () {
+            $("form").attr("action", "/notice/insert");
+        });
+        $("#update").click(function () {
+            $("form").attr("action", "/notice/update");
+        });
+        $("#delete").click(function () {
+            $("form").attr("action", "/notice/delete");
+        });
+        $("#home").click(function () {
+            $("form").attr("action", "/notice/home");
+        });
+        function btn_click(str) {
+            if (str == "search") {
+                frm1.action = "/notice/search";
+            } else if (str == "insert") {
+                frm1.action = "/notice/insert";
+            } else if (str == "update") {
+                frm1.action = "/notice/update";
+            }else if (str == "delete") {
+                frm1.action = "/notice/delete";
+            }else if (str == "home") {
+                frm1.action = "/notice/home";
+            }
+        }
+
+    </script>
+    <!-- action='/notice/neworder' -->
+    <form id="frm1" method="GET">
+        <table border="1" style="width:280px;line-height: 30px;">
+            <tr>
+                <td>주문자ID : <input type="text" name="UserId" style="width:180px"  value="<%= UserId %>" > <br/> 6017baf8b854ea158040b47b</td> 
+               
+            </tr>
+            <tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr>
+            <tr>
+                <td> *주문자 : <input type="text" name="UserName" style="width:56px" value="<%= UserName %>"></td>
+            </tr>
+            <tr>
+                <td> *메뉴 : <input type="text" name="MenuName" style="width:80px"  value="<%= MenuName %>"> </td>
+            </tr>
+            <tr>
+                <td>*수량 : <input type="text" name="Count" style="width:56px" value="<%= Count %>"> </td>
+            </tr>
+            <tr>
+                <td>*금액 : <input type="text" name="Price" style="width:56px" value="<%= Price %>"> </td>
+            </tr>
+            <tr>
+                <td>주문시간 : <input type="text" name="date" style="width:180px"  value="<%= date %>" ></td>
+            </tr>
+
+            <tr>
+                <td><input value="조회" type="submit" onclick='btn_click("search")' />
+                    <input value="등록" type="submit" onclick='btn_click("insert")' />
+                    <input value="수정" type="submit" onclick='btn_click("update")' />
+                    <input value="삭제" type="submit" onclick='btn_click("delete")' />
+                    <input value="홈으로" type="submit" onclick='btn_click("home")' />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

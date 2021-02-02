@@ -1,0 +1,34 @@
+{
+    "User": {
+        "drivejoe@naver.com": {
+            "nick": "조형기의운전교실",
+            "email": "drivejoe@naver.com",
+            "tel": "01072443978",
+            "CmCode": "C"
+        },
+        "stillkwak@naver.com": {
+            "nick": "곽한구중고차샵",
+            "email": "stillkwak@naver.com",
+            "tel": "01099910293",
+            "CmCode": "M"
+        },
+        "wedding@naver.com": {
+            "nick": "서장훈의행복웨딩",
+            "email": "wedding@naver.com",
+            "tel": "01072443978",
+            "CmCode": "M"
+        },
+        "imsorry@naver.com": {
+            "nick": "내가미안해",
+            "email": "imsorry@naver.com",
+            "tel": "01072443978",
+            "CmCode": "C"
+        },
+        "whatsorry@naver.com": {
+            "nick": "뭐가미안한데",
+            "email": "whatsorry@naver.com",
+            "tel": "01072443978",
+            "CmCode": "C"
+        }
+    }
+}

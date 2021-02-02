@@ -1,0 +1,28 @@
+{
+    "customer": [
+        {
+            "id": 1,
+            "image": "https://placeimg.com/64/64/1",
+            "name": "고인돌머리",
+            "birthday": "911222",
+            "gender": "남자",
+            "job": "대학생"
+        },
+        {
+            "id": 2,
+            "image": "https://placeimg.com/64/64/2",
+            "name": "임꺽정훈",
+            "birthday": "881222",
+            "gender": "여자",
+            "job": "산적"
+        },
+        {
+            "id": 3,
+            "image": "https://placeimg.com/64/64/3",
+            "name": "참새의눈물",
+            "birthday": "980212",
+            "gender": "남자",
+            "job": "참새"
+        }
+    ]
+}
