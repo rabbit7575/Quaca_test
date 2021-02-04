@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>
+    <%= title %>
+  </title>
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+
+</head>
+
+<body>
+  <h1>
+    <%= title %>
+  </h1>
+  <p>
+    <%= title %> !!
+  </p>
+  <p>ex) lion8733@naver.com</p>
+  <form  method="GET" id="userForm"name="userForm">
+    <table border="1" style="width:280px;line-height: 30px;">
+      <tr>
+        <td> Email  </td>
+        <td><input type="text" name="Email" style="width:180px" value="<%= Email %>" /></td>
+      </tr>
+      <tr>
+        <td> NickName  </td>
+        <td><input type="text" name="NickName" style="width:180px" value="<%= NickName %>" /></td>
+      </tr>
+      <tr>
+        <td> TelNo  </td>
+        <td><input type="text" name="TelNo" style="width:180px" value="<%= TelNo %>" /></td>
+      </tr>
+      <tr>
+        <td> CMCode  </td>
+        <td><input type="text" name="CMCode" style="width:180px" value="<%= CMCode %>" /></td>
+      </tr>
+      <tr>
+        <td> UseYn  </td>
+        <td>
+          <input type="text" name="UseYn" style="width:180px" value="<%= UseYn %>" />
+          
+      </td>
+      </tr>
+
+      <tr>
+        <td> InsertDt  </td>
+        <td> <%= InsertDt %> </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+            <input value="등록" type="submit" onclick='btn_click("insert")' />
+            <input value="메인" type="submit" onclick='btn_click("home")' />
+        </td>
+    </tr>
+    </table>
+  </form>
+  <script>
+    function btn_click(str){
+      if (str == "search") {
+        userForm.action = "/userInfo/infoSearch";        
+      } else if (str == "insert") {
+        userForm.action = "/userInfo/infoInsert";
+      } else if (str == "update") {
+        userForm.action = "/userInfo/infoUpdate";
+      }else if (str == "delete") {
+        userForm.action = "/userInfo/infoDelete";
+      }else if (str == "home") {
+        userForm.action = "/";
+      }
+    }
+  </script>
+</body>
+</html>

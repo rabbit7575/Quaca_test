@@ -114,5 +114,58 @@
       <input type = "submit" value="상세" onclick='btn_click("mongo");'>
     </form><br/><br/>
 
+
+    <!-- 테스트 -->
+    ==========================<br/>
+    ======= Maria DB ===========<br/>
+    ==========================<br/>
+    <!-- 회원 조회 -->
+    <form name="userSearch" method="GET" action="userInfo/search">
+      <%= Url %>/userInfo/search?email=
+      <input type="text" name="email"style="width:130px">
+      <input type="submit" value="회원정보"/>
+    </form>
+    lion8733@naver.com
+    <br/><br/>
+    <!--회원 수정 페이지 -->
+    <form name="userEdit" method="GET" action="userInfo/edit">
+      <%= Url %>/userInfo/edit
+      <input type="text" name="email"style="width:130px">
+      <input type="submit" value="회원정보 수정하기"/>
+    </form>
+    lion8733@naver.com
+    <br/><br/>
+    <!--회원 등록 페이지 -->
+    <form name="userEdit" method="GET" action="userInfo/insert">
+      <%= Url %>/userInfo/insert
+      <input type="submit" value="회원정보 등록하기"/>
+    </form>
+  
+    <br/><br/>
+    ==========================<br/>
+    ======= Mongo DB ===========<br/>
+    ==========================<br/>
+    <!-- notice 조회 -->
+    <form name="noticeSearch" method="GET" action="noticeInfo/search">
+      <%= Url %>/noticeInfo/search?noticeId=
+      <input type="text" name="noticeId"style="width:130px">
+      <input type="submit" value="조회"/>
+      <br>
+      6017baf8b854ea158040b47b
+    </form>
+    <br/><br/>
+    <form name="noticeEdit" method="GET" action="noticeInfo/edit">
+      <%= Url %>/noticeInfo/edit?noticeId=
+      <input type="text" name="noticeId"style="width:130px">
+      <input type="submit" value="조회"/>
+      <br>
+      6017baf8b854ea158040b47b
+    </form>
+    <br/><br/>
+    <form name="noticeInsert" method="GET" action="noticeInfo/insert">
+      <%= Url %>/noticeInfo/insert
+      <input type="submit" value="등록"/>
+    </form>
+    <br/><br/>
   </body>
 </html>

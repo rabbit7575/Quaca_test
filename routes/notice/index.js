@@ -22,6 +22,7 @@ router.get('/order', function (req, res) {
         db.collection('notice').find().toArray(function(err,doc){
             if(err) return res.status(500).json({error: err});
             if(!doc) return res.status(404).json({error: 'UserName not found'});
+
             res.json(doc); 
             console.log("데이터 조회 !");
             client.close();

@@ -9,8 +9,8 @@ router.get('/QUserPay', function (req, res, next) {
   conn. connection.query('SELECT Email,PayUid,orderCnt,orderNum,Qname AS FirstMenuName, OrderSTatus,PayCompleteTime,MenuCompleteTime,TotalPrice FROM QUserPayDetail where UId = (SELECT min(UId) FROM QUserPayDetail) AND Email LIKE'
   + '"'+ email +'"', function (err, rows, fields) {
       if (!err) {
-          var result = 'rows : ' + JSON.stringify(rows) + '<br><br>' +
-              'fields : ' + JSON.stringify(fields);
+          console.log(rows);
+          console.log(rows[0].MenuCompleteTime);
           res.send(rows);
       } else {
           console.log('query error : ' + err);
@@ -22,7 +22,11 @@ router.get('/QUserPay', function (req, res, next) {
 router.get('/QUserPayDetail', function (req, res, next) {
   var email = req.query.email;
   var PayUid = req.query.PayUid;
-  conn.connection.query('SELECT * FROM QUserPayDetail where Email like'+ '"'+ email+'" and PayUid like'+'"'+PayUid+'"', function (err, rows, fields) {
+  var sql = 'SELECT '
+            +'UId, Email, PayUid, PayMethod, orderCnt, OrderNum, Qname, Price, OptionA, OptionB, OptionC, '
+            +'OrderStatus, date_format(PayCompleteTime, "%Y-%m-%d %H:%i:%S") AS PayCompleteTime, date_format(MenuCompleteTime, "%Y-%m-%d %H:%i:%S") AS MenuCompleteTime, TotalPrice'
+            +' FROM QUserPayDetail where Email like'+ '"'+ email+'" and PayUid like'+'"'+PayUid+'"';
+  conn.connection.query(sql, function (err, rows, fields) {
       if (!err) {
         var memberData = new Object();
         memberData.OrderNum = rows[0].OrderNum;

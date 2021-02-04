@@ -40,6 +40,8 @@ router.get('/', function (req, res, next) {
         }
     });
 });
+
+
 router.get('/idcheck', function (req, res) {
     let Qmail = req.query.Qmail;
     console.log(Qmail);
@@ -112,4 +114,5 @@ router.get('/signup', function (req, res) {
         console.log("현재url :" ,Url);
       });
 });
+
 module.exports = router;

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> <%=title%> </title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <h1> <%=title%></h1>
+    <p> <%=title%> </p>
+
+
+    <form id="frm1" method="GET">
+        <table border="1" style="width:280px;line-height: 30px;">
+            <tr>
+                <td>주문자ID</td> 
+                <td>
+                    <input type="text" name="UserId" style="width:180px"  value="<%= UserId %>" >
+                    <br/> 6017baf8b854ea158040b47b
+                </td>
+            </tr>
+            <tr>
+                <td>주문자</td>
+                <td>
+                    <input type="text" name="UserName" style="width:56px" value="<%= UserName %>">
+                </td>
+            </tr>
+            <tr>
+                <td>메뉴</td>
+                <td>
+                    <input type="text" name="MenuName" style="width:80px"  value="<%= MenuName %>">
+                </td>
+            </tr>
+            <tr>
+                <td>수량</td>
+                <td>
+                    <input type="text" name="Count" style="width:56px" value="<%= Count %>">
+                </td>
+            </tr>
+            <tr>
+                <td>금액</td>
+                <td>
+                    <input type="text" name="Price" style="width:56px" value="<%= Price %>">
+                </td>
+            </tr>
+            <tr>
+                <td>주문시간</td>
+                <td>
+                    <%= date %>
+                </td>
+            </tr>
+
+            <tr>
+                <td colspan="2">
+                    <input value="조회" type="submit" onclick='btn_click("search")' />
+                    <!--<input value="등록" type="submit" onclick='btn_click("insert")' />-->
+                    <input value="수정" type="submit" onclick='btn_click("update")' />
+                    <input value="삭제" type="submit" onclick='btn_click("delete")' />
+                    <input value="홈으로" type="submit" onclick='btn_click("home")' />
+                </td>
+            </tr>
+        </table>
+    </form>
+    <script>
+        function btn_click(str) {
+            if (str == "search") {
+                frm1.action = "/noticeInfo/infoSearch";
+            } else if (str == "insert") {
+                frm1.action = "/noticeInfo/infoInsert";
+            } else if (str == "update") {
+                frm1.action = "/noticeInfo/infoUpdate";
+            }else if (str == "delete") {
+                frm1.action = "/noticeInfo/infoDelete";
+            }else if (str == "home") {
+                frm1.action = "/";
+            }
+        }
+
+    </script>
+</body>
+</html>
